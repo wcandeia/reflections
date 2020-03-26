@@ -16,5 +16,3 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-
-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
