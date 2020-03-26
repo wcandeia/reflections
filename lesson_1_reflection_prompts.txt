@@ -1,46 +1,20 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
-
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
-
-    Fill in your answer here
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
-
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
-
 How can you use the commands git log and git diff to view the history of files?
-
-    Fill in your answer here
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
-
 Now that you have your workspace set up, what do you want to try using Git for?
-
-    Fill in your answer here
-
-Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
-
-Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
-
-Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
-
-Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
-
-De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
-
-Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 
